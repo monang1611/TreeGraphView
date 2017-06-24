@@ -1,2 +1,2 @@
 # TreeGraphView
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Alt text](https://github.com/machacker16/TreeGraphView/blob/master/image.png "Optional title")
